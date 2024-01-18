@@ -8,6 +8,7 @@ Project Overview:
 I deployed a virtualized environment using Oracle VirtualBox with Windows Server 2019 as the domain controller. The domain "mydomain.com" was established with two network adapters, one for the internal network and another for internet connectivity. The setup included the implementation of RAS/NAT and a DHCP scope. A PowerShell script was executed to generate 1000 user accounts, and a client VM was created and connected to the internal network.
 
 Accomplishments:
+
 Domain Creation: Successfully established the "mydomain.com" domain.
 ![Client1_vm_internal_network](https://github.com/day-zen/AD-DC/assets/153837646/bb898eb2-1bfd-4ece-94d9-6472bc140081)
 
